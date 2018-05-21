@@ -6,7 +6,7 @@ Preinstall Java8
 Maven 3
 
 How to build :
-	1.	Using Command line
+    1.  Using Command line
            clone or download the project from
            Go to project directory and run command “mvn clean install”
     2.  Using IntelliJ

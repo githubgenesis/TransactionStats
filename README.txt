@@ -21,8 +21,6 @@ How to Run :
             After open project into IDE open class Application.java and run main method
 
 How to Use :
- open “http://localhost:8080/swagger-ui.html#/”. So access all api using swagger. Apart from that also you can 
-generate transaction using this shell script “transcation_gen.sh”. This shell script generate transaction every 5
-seconds.
+ open “http://localhost:8080/swagger-ui.html#/”. So access all api using swagger. Apart from that also you can generate transaction using this shell script “transcation_gen.sh”. This shell script generate transaction every 5 seconds.
 
 Note: Project build can take more than 60 second because in one test I am simulating 60 Second use case. For faster build use following command “mvn clean install -DskipTests”. 
